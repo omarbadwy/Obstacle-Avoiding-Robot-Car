@@ -1,5 +1,7 @@
-/* Eng Omar Badwy
- * Last Update 15/12/2023
+/* 
+ *  Eng Omar Badwy
+ *  Obstacle Avoiding Robot Car Project
+ *  Last Update 15/12/2023
  */
 #include "AFMotor.h"
 #include <Servo.h>
