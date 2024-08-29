@@ -19,5 +19,5 @@ Components :
 11- Jumper Wires
 
 🔗 Watch the video on my YouTube channel :
-https://lnkd.in/dCe-n__w
+https://youtu.be/1hdIESoWncw?si=Jttr4iF8ScKeBE30
 Good viewing♥️
