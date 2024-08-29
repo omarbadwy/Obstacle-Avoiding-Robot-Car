@@ -1,5 +1,7 @@
-/* Eng Omar Badwy
- *  15/12/2023
+/* 
+ *  Eng Omar Badwy
+ *  Obstacle Avoiding Robot Car Project
+ *  Last Update 15/12/2023
  */
 #if (ARDUINO >= 100)
   #include "Arduino.h"
